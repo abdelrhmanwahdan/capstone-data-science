@@ -1,1 +1,0 @@
-the data  that I will need is the location data of the neighborhoods of toronto and how many restarant in each neighborhood.
